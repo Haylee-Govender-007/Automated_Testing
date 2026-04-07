@@ -11,6 +11,7 @@ package com.mycompany.automated_tested;
 public class Automated_Tested {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+     
+        
     }
 }
